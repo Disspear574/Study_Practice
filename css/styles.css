@@ -257,9 +257,6 @@ margin-top: 10px;
   display: none;
 }
 @media (max-width: 1730px) {
-  .menu_hamburger {
-    display: block;
-  }
   .header {
     justify-content: space-between;
     gap: 20px;
@@ -298,6 +295,9 @@ margin-top: 10px;
 .search_block {
   display: none;
 }
+    .menu_hamburger {
+    display: block;
+  }
 .nav {
   display: none;
 }
